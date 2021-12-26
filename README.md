@@ -17,4 +17,4 @@ Screenshot:
 ## Contribution
 Made with ❤️ by Blake Hyland
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Run Buddy, Inc 
